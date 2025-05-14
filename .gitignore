@@ -1,0 +1,46 @@
+## Build
+bin/
+obj/
+out/
+
+## User-specific
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+## Visual Studio Code
+.vscode/
+
+## ASP.NET
+*.db
+*.log
+*.pid
+
+## Rider
+.idea/
+
+## Logs
+*.log
+
+## OS generated
+.DS_Store
+Thumbs.db
+
+## DotNet
+project.lock.json
+project.fragment.lock.json
+artifacts/
+
+## Paket
+.paket/
+paket-files/
+
+## NPM
+node_modules/
+
+## Environment files
+.env
+
+## Docker
+**/docker-compose.override.yml
